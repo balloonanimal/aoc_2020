@@ -1,0 +1,2 @@
+* Advent of Code 2020 Solutions in Clojure
+    This file contains my solutions to the Advent of Code 2020 puzzles in the clojure programming language. There's not too much more to say. I've been finding these puzzles very interesting to work on and hopefully will have the full 25 days completed in the near future.
